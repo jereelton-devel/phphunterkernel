@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="PhpHunter\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Auth" isTestSource="false" packagePrefix="PhpHunterAuth\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Core" isTestSource="false" packagePrefix="PhpHunterCore\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Database" isTestSource="false" packagePrefix="PhpHunterDatabase\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Handler" isTestSource="false" packagePrefix="PhpHunterHandler\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Helper" isTestSource="false" packagePrefix="PhpHunterHelper\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Middleware" isTestSource="false" packagePrefix="PhpHunterMiddleware\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ORM" isTestSource="false" packagePrefix="PhpHunterORM\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Router" isTestSource="false" packagePrefix="PhpHunterRouter\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Secutiry" isTestSource="false" packagePrefix="PhpHunterSecurity\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Util" isTestSource="false" packagePrefix="PhpHunterUtil\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
